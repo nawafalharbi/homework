@@ -1,2 +1,2 @@
 # homework
-homework files for data science course 
+homework files for data science course fall 2018
